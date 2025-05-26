@@ -61,7 +61,7 @@ This tool assists CEOs and Scrum Masters in managing startup projects by:
   - `scikit-learn`
   - `litellm`
   - `tenacity`
-- **Groq API Key**: Obtain from [xAI](https://groqcloud.com) and add to `.env`
+- **Groq API Key**: Obtain from [Groqcloud](https://groqcloud.com) and add to `.env`
 
 ## Setup
 
