@@ -1,0 +1,99 @@
+[
+
+  {
+    "name": "Sahil Thakor",
+    "role": "Full Stack Developer & Team Lead",
+    "email": "sahil@way2reach.in",
+    "my_work": "I lead the development team by unblocking technical/operational issues, reviewing code, and ensuring quality output. I work with Python, JavaScript, ReactJS, Django, and automation testing using Selenium. I also manage stakeholder communication and implement agile methodologies like Scrum.",
+    "skills": ["Full Stack Development", "Python", "JavaScript", "ReactJS", "Django", "Selenium", "Agile", "Testing","Leadership"],
+    "status": "available"
+  },
+  {
+    "name": "Navin Chaudhary",
+    "role": "Junior Frontend Developer",
+    "email": "navin.c@way2reach.in",
+    "my_work": "I build responsive and interactive web applications using HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and Bootstrap. I'm also experienced Lafwith Node.js, Express, and MongoDB for full-stack development and API integration.",
+    "skills": ["Frontend Development", "HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS", "Bootstrap", "Node.js", "Express", "MongoDB"],
+    "status": "available"
+  },
+  {
+    "name": "Manav Yagnik",
+    "role": "Junior Backend Developer",
+    "email": "manav.y@way2reach.in",
+    "my_work": "I design backend APIs and database schemas. I also work with cloud services and CUDA computing, and have a strong interest in core machine learning and deep learning. My tech stack includes Python, Docker, Redis, Nginx, and Apache.",
+    "skills": ["Backend Development", "APIs", "Database Design", "Python", "Docker", "Redis", "Nginx", "Apache", "ML"],
+    "status": "available"
+  },
+  {
+    "name": "Kaksh Patel",
+    "role": "MERN Stack Developer (Front End)",
+    "email": "kaksh@way2reach.in",
+    "my_work": "I focus on frontend development using the MERN stack, and create engaging websites. I also have skills in video creation/editing, poster design using Canva, and social media management. I'm interested in finance, business enhancement, and team leadership.",
+    "skills": ["MERN", "Frontend Development", "Video Editing", "Canva", "Social Media", "Leadership"],
+    "status": "available"
+  },
+  {
+    "name": "Jahnvi Gupta",
+    "role": "MERN Stack Developer (Back End)",
+    "email": "jahnvi@way2reach.in",
+    "my_work": "I specialize in backend development using Node.js, Express, and MongoDB. I develop and maintain scalable REST APIs, manage database operations, and contribute to full-stack applications.",
+    "skills": ["MERN", "Backend Development", "Node.js", "Express", "MongoDB", "REST APIs"],
+    "status": "available"
+  },
+  {
+    "name": "Mitrajsinh Jadeja",
+    "role": "UI/UX Designer",
+    "email": "mitraj@way2reach.in",
+    "my_work": "I design user-centric and visually appealing interfaces using Figma. My role involves understanding user needs and translating them into seamless UI/UX experiences for websites and applications.",
+    "skills": ["UI/UX Design", "Figma", "User Research"],
+    "status": "available"
+  },
+  {
+    "name": "Vatsal Joshi",
+    "role": "DevOps Engineer",
+    "email": "vatsal@way2reach.in",
+    "my_work": "I build and manage CI/CD pipelines, handle infrastructure security, website monitoring, log analysis, and load testing. I work with Docker, Kubernetes, AWS, Ansible, and Netdata. I also possess working knowledge of the MERN stack for better DevOps integration.",
+    "skills": ["CI/CD", "Docker", "Kubernetes", "AWS", "Ansible", "Netdata", "MERN"],
+    "status": "available"
+  },
+  {
+    "name": "Darsh Parikh",
+    "role": "AI/ML Engineer",
+    "email": "darsh@way2reach.in",
+    "my_work": "I specialize in building AI/ML features including chatbots, web scraping tools, and AI agents. I'm proficient in Python and create interactive prototypes using Streamlit. My responsibilities include data gathering, data structuring, and developing intelligent automation solutions.",
+    "skills": ["Python", "AI/ML", "Chatbots", "Web Scraping", "Streamlit", "Data Engineering"],
+    "status": "available"
+  },
+  {
+    "name": "Siddharth Nathan",
+    "role": "Data Scientist",
+    "email": "siddharth@way2reach.in",
+    "my_work": "I build end-to-end machine learning solutions, including recommender systems, RAG-CAG architectures, and fine-tuning LLMs. My expertise includes data engineering, feature engineering, and designing database architectures to support scalable ML pipelines.",
+    "skills": ["Data Science", "ML", "Recommender Systems", "LLM Fine-Tuning", "Data Engineering", "Database Design"],
+    "status": "available"
+  },
+  {
+    "name": "Honey Shah",
+    "role": "Management Trainee - Marketing & Business Analytics",
+    "email": "honey.s@way2reach.in",
+    "my_work": "I manage vendor communications, handle social media platforms, and create engaging content and posts to support the marketing and business analytics functions.",
+    "skills": ["Marketing", "Social Media", "Content Creation", "Business Analytics"],
+    "status": "available"
+  },
+  {
+    "name": "Mansi Malik",
+    "role": "Legal Associate",
+    "email": "mansi@way2reach.in",
+    "my_work": "I provide end-to-end legal support in corporate, compliance, and intellectual property matters. My work includes drafting and negotiating contracts (NDAs, employment agreements), managing regulatory compliance, securing IP through trademarks and copyrights, and ensuring POSH compliance. I also support legal aspects of fundraising and investor documentation.",
+    "skills": ["Legal Support", "Contracts", "Compliance", "Intellectual Property", "Fundraising"],
+    "status": "available"
+  },
+  {
+    "name": "Gautam Trivedi",
+    "role": "Finance Analyst",
+    "email": "gautam.t@way2reach.in",
+    "my_work": "I handle financial planning, market and cost analysis, vendor documentation, and revenue model evaluation. I have experience in financial modeling and preparing investment pitches for funding initiatives.",
+    "skills": ["Finance", "Financial Modeling", "Market Analysis", "Cost Analysis", "Pitch Development"],
+    "status": "available"
+  }
+]
