@@ -16,10 +16,10 @@ This tool assists CEOs and Scrum Masters in managing startup projects by:
 ## Project Structure
 
 ```
-<p>
+
 │
-├── .env                  # Environment variables (API keys, configuration)
-├── README.md             # Project documentation (this file)
+├── .env                  # Environment variables (API keys, configuration)<br>
+├── README.md             # Project documentation (this file)<br>
 ├── data/                 # Data files
 │   └── employees.json    # Employee details (name, role, email, skills)
 ├── src/                  # Source code
@@ -47,7 +47,7 @@ This tool assists CEOs and Scrum Masters in managing startup projects by:
 │   └── utils/            # Utility functions
 │       └── utils.py      # JSON parsing, retry logic, etc.
 └── session_data/         # Auto-generated session state storage (not in repo)
-</p>
+
 ```
 
 ## Prerequisites
