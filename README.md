@@ -16,7 +16,7 @@ This tool assists CEOs and Scrum Masters in managing startup projects by:
 ## Project Structure
 
 ```
-C:\cookie\task manager\
+<p>
 │
 ├── .env                  # Environment variables (API keys, configuration)
 ├── README.md             # Project documentation (this file)
@@ -47,6 +47,7 @@ C:\cookie\task manager\
 │   └── utils/            # Utility functions
 │       └── utils.py      # JSON parsing, retry logic, etc.
 └── session_data/         # Auto-generated session state storage (not in repo)
+</p>
 ```
 
 ## Prerequisites
