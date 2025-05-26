@@ -20,33 +20,33 @@ This tool assists CEOs and Scrum Masters in managing startup projects by:
 │
 ├── .env                  # Environment variables (API keys, configuration)<br>
 ├── README.md             # Project documentation (this file)<br>
-├── data/                 # Data files
-│   └── employees.json    # Employee details (name, role, email, skills)
-├── src/                  # Source code
-│   ├── agents/           # AI agent implementations
-│   │   ├── __init__.py
-│   │   ├── ba_agent.py   # Business Analyst agent
-│   │   ├── base_agent.py # Base agent class
-│   │   ├── employee_agent.py # Employee evaluation agent
-│   │   └── task_agent.py # Task processing agent
-│   ├── config/           # Configuration files
-│   │   ├── __init__.py
-│   │   ├── config.py     # General app constants
-│   │   └── llm_config.py # LLM configuration
-│   ├── core/             # Core application logic
-│   │   ├── __init__.py
-│   │   ├── app.py        # Main Streamlit app
-│   │   ├── navigation.py # Navigation and progress tracking
-│   │   ├── state_management.py # Session state handling
-│   │   ├── task_processing.py # Task estimation and sub-task generation
-│   │   └── ui_components.py # UI components for each step
-│   ├── services/         # External service integrations
-│   │   ├── __init__.py
-│   │   ├── email_service.py # Email notification service
-│   │   └── task_matcher.py # Task-employee matching logic
-│   └── utils/            # Utility functions
-│       └── utils.py      # JSON parsing, retry logic, etc.
-└── session_data/         # Auto-generated session state storage (not in repo)
+├── data/                 # Data files<br>
+│   └── employees.json    # Employee details (name, role, email, skills)<br>
+├── src/                  # Source code<br>
+│   ├── agents/           # AI agent implementations<br>
+│   │   ├── __init__.py<br>
+│   │   ├── ba_agent.py   # Business Analyst agent<br>
+│   │   ├── base_agent.py # Base agent class<br>
+│   │   ├── employee_agent.py # Employee evaluation agent<br>
+│   │   └── task_agent.py # Task processing agent<br>
+│   ├── config/           # Configuration files<br>
+│   │   ├── __init__.py<br>
+│   │   ├── config.py     # General app constants<br>
+│   │   └── llm_config.py # LLM configuration<br>
+│   ├── core/             # Core application logic<br>
+│   │   ├── __init__.py<br>
+│   │   ├── app.py        # Main Streamlit app<br>
+│   │   ├── navigation.py # Navigation and progress tracking<br>
+│   │   ├── state_management.py # Session state handling<br>
+│   │   ├── task_processing.py # Task estimation and sub-task generation<br>
+│   │   └── ui_components.py # UI components for each step<br>
+│   ├── services/         # External service integrations<br>
+│   │   ├── __init__.py<br>
+│   │   ├── email_service.py # Email notification service<br>
+│   │   └── task_matcher.py # Task-employee matching logic<br>
+│   └── utils/            # Utility functions<br>
+│       └── utils.py      # JSON parsing, retry logic, etc.<br>
+└── session_data/         # Auto-generated session state storage (not in repo)<br>
 
 ```
 
